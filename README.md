@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nkatha
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning c programming
+- 👀 web development
+- 🌱 I’m currently learning c# programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 To reach me contact me via whatsapp https://wa.me/254711318428 or email jmunyira1@gmail.com
 
